@@ -3,11 +3,12 @@
 <!--
 **knorth2/knorth2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Kayci and I am currently in a Software Engineering Immersive program through General Assembly. I am looking to take my skills that I have attained in my previous career (Physical Therapy) and cultivate them to fit in to a career in programming. I am a creative problem solver with an eye for design and attention to detail.
+My name is Kayci and I’ve recently made the career pivot to software engineering and am currently completing a coding bootcamp at General Assembly. My creative problem solving and attention to detail are a few of my skills that I will take with me from my previous career in Physical Therapy. 
+Currently learning Javascript. 
 
 - 📫 How to reach me: https://www.linkedin.com/in/kayci-north/
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am currently a career changer! 15 years in healthcare as a Physical Therapist Assistant looking to stay in healthcare or life sciences on the programming side. 
+- ⚡ Fun fact: I LOVE organization!
 Team Player
 Approachable
 Adaptable
