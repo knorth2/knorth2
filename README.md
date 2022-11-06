@@ -13,7 +13,7 @@
 
 ### About me
 * 👀 &nbsp;Interested in full stack engineering
-* 🤓 &nbsp;New Skills: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL)
+* 🤓 &nbsp;New Skills: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku)
 * 😄 Pronouns: She/Her
 * 🥳 Fun fact: I LOVE organization!
 
