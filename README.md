@@ -7,17 +7,24 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:kayci.north@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/icyak/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 </p>
 
-<div align="center">I’ve recently made the career pivot to software engineering and am currently completing a coding bootcamp at General Assembly. My creative problem solving and attention to detail are a few of my skills that I will take with me from my previous career in Physical Therapy. </div>
+<div align="center"> I am a software engineer with a background in healthcare. I’ve recently made the career pivot to software engineering and recently completed a coding bootcamp at General Assembly. Organization, helping others and finding solutions to problems are my passion.  My experience has prepared me to solve problems quickly and efficiently. I am seeking a dynamic job that cultivates creative problem-solving and organizational skills.  </div>
 
 ### About me
 * 👀 &nbsp;Interested in full stack engineering
-* 🤓 &nbsp;New Skills: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL) 
-* 😄 Pronouns: She/Her
+* 🤓 &nbsp;**Tech Stack** 
+    * Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
+    * Libraries & Frameworks: ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=Flask)
+    * Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=MongoDB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=PostgreSQL) ![SQLite](https://img.shields.io/badge/-SQLite-000?style=flat&logo=SQLite)
+    * DevOps & Tools: ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=Git) ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub) ![Heroku](https://img.shields.io/badge/-Heroku-000?style=flat&logo=Heroku) 
 * 🥳 Fun fact: I LOVE organization!
 
-![Kayce's github stats](https://github-readme-stats.vercel.app/api?username=knorth2&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+
+
+![Kayci's github stats](https://github-readme-stats.vercel.app/api?username=knorth2&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knorth2&layout=compact&hide_border=true)
 
 
