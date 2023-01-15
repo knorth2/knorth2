@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 </p>
 
-<div align="center"> I am a software engineer with a background in healthcare. I’ve recently made the career pivot to software engineering and recently completed a coding bootcamp at General Assembly. Organization, helping others and finding solutions to problems are my passion.  My experience has prepared me to solve problems quickly and efficiently. I am seeking a dynamic job that cultivates creative problem-solving and organizational skills.  </div>
+<div align="center"> I am a software engineer with a background in healthcare. Organization, helping others and finding solutions to problems are my passion.  My professional experience has prepared me to solve problems quickly and efficiently. I am seeking a dynamic job that cultivates creative problem-solving and organizational skills.  </div>
 
 ### About me
 * 👀 &nbsp;Interested in full stack engineering
