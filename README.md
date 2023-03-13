@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 </p>
 
-<div align="center"> I am a software engineer with a background in healthcare. Organization, helping others and finding solutions to problems are my passion.  My professional experience has prepared me to solve problems quickly and efficiently. I am seeking a dynamic job that cultivates creative problem-solving and organizational skills.  </div>
+<div align="center"> I am a customer success engineer with a background in healthcare. Organization, helping others and finding solutions to problems are my passion.  My professional experience in a customer facing role has prepared me to solve problems quickly and efficiently. In my freetime, you can find me outside biking, hiking or skiing with my dogs! </div>
 
 ### About me
-* 👀 &nbsp;Interested in full stack engineering
+* 👀 &nbsp;Customer Success Engineer
 * 🤓 &nbsp;**Tech Stack** 
     * Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript) ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python) ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=CSS3)
     * Libraries & Frameworks: ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React) ![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=Node.js) ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=Express) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=Flask)
